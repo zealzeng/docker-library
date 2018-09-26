@@ -2,7 +2,7 @@
 
 
 
-## Kubernetes 镜像同步
+## Kubernetes 镜像同步_
 
 
 
@@ -10,6 +10,7 @@
 
 * Kubernetes v1.10.3
 * Kubernetes v1.11.0
+* Kubernetes v1.11.3
 
 
 ## 查看gcr.io官方镜像
